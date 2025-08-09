@@ -25,10 +25,6 @@ A Python-based project that uses the OpenWeatherMap API to fetch weather data an
 
 Make sure Python is installed, then open your terminal and run:
 
-```bash
-pip install requests pandas matplotlib
-
-
 
 ## Usage
 
@@ -53,11 +49,11 @@ You'll also see a weather-based activity suggestion printed in the console 🌈
   'Thunderstorm': "⛈️ Unplug and stay safe indoors!"
 }
 
+
 ## Example Output:
    Weather Now in Ulhasnagar: Rain, 25°C
    Suggestion: 🌧️ Chai + code = perfect combo!
 
-📊 Output Examples
-
 <img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/cf70a37c-2751-4f97-8523-ba4546643453" />
+<img width="600" height="500" alt="Image" src="https://github.com/user-attachments/assets/14250623-eac6-4347-ad61-dfe4e30f0634" />
  
