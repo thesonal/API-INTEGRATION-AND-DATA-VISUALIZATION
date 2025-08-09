@@ -58,5 +58,6 @@ You'll also see a weather-based activity suggestion printed in the console 🌈
    Suggestion: 🌧️ Chai + code = perfect combo!
 
 📊 Output Examples
-Charts are saved as .png images inside the Weather folder.
+
+<img width="1000" height="500" alt="Image" src="https://github.com/user-attachments/assets/cf70a37c-2751-4f97-8523-ba4546643453" />
  
